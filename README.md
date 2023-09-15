@@ -1,0 +1,1 @@
+This is a repository for a script that will allow the user to use custom temperaments with MainStage via Scripter plugin. The idea behind it is to ignore all the sharps on a keyboard(have them repeat the natural key), since the order of sharps on the keyboard is tied to the 12-tet and will not provide consistency.
